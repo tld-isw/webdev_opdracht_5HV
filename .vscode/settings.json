@@ -1,0 +1,13 @@
+{
+  "chat.disableAIFeatures": true,
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "files.autoSave": "onFocusChange",
+  "files.autoSaveDelay": 1000,
+  "git.autofetch": true,
+  "git.autofetchPeriod": 300,
+  "editor.guides.indentation": true
+}

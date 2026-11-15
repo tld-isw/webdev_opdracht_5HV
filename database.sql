@@ -1,0 +1,3 @@
+-- Maak hier de tabellen en relaties voor jouw project.
+-- Schrijf zelf je CREATE TABLE-instructies en sluit iedere opdracht af met een puntkomma (;).
+-- Bewaar dit bestand in Git zodat je docent je databasestructuur kan lezen.
